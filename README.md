@@ -8,9 +8,10 @@
 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 ## 学术工具
 [ChatGPT 学术优化](https://github.com/binary-husky/chatgpt_academic)
-
+[scispace 人工智能读论文](https://typeset.io/)
 ## 代码工具
 [CodeCursor (Cursor for Visual Studio Code)](https://github.com/Helixform/CodeCursor)
 
 ## 信息来源
 微博博主[宝玉xp](https://weibo.com/u/1727858283)
+飞书文档 [工具合集](https://bytedance.feishu.cn/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf?table=tblmZTd8VuUOOONh&view=vew0Eo17BB&continueFlag=65b5f564557a5863fb2f42d9bf7b5a89)
