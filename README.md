@@ -1,7 +1,8 @@
 ## 浏览器插件
 可以在浏览器里一键翻译润色总结分析[OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc)
  [ChatGPT Sidebar](https://chrome.google.com/webstore/detail/chatgpt-sidebar-support-g/difoiogjjojoaoomphldepapgpbgkhkb/related)
- 可以双语显示英文网页[沉浸式翻译]（https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh）
+ 
+ 可以双语显示英文网页[沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
 
 ## 提示词网站
 [ChatGPT Shortcut](https://newzone.top/chatgpt/)
