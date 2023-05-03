@@ -10,6 +10,7 @@
 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 ## 学术工具
 [ChatGPT 学术优化](https://github.com/binary-husky/chatgpt_academic)
+
 [scispace 人工智能读论文](https://typeset.io/)
 ## 代码工具
 [CodeCursor (Cursor for Visual Studio Code)](https://github.com/Helixform/CodeCursor)
