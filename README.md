@@ -15,6 +15,8 @@
 [HomeAI亚马逊 AI 编程助手 CodeWhisperer 免费对个人用户开放，提供不限量的代码建议，类似 GitHub Copilot
 亚马逊 AI 编程助手 CodeWhisperer](https://www.appinn.com/amazon-codewhisperer/)
 
+[codium](https://www.codium.ai/#home-wait)
+
 ## 信息来源
 微博博主[宝玉xp](https://weibo.com/u/1727858283)
 飞书文档 [工具合集](https://bytedance.feishu.cn/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf?table=tblmZTd8VuUOOONh&view=vew0Eo17BB&continueFlag=65b5f564557a5863fb2f42d9bf7b5a89)
