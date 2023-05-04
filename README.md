@@ -25,3 +25,5 @@
 ## 信息来源
 微博博主[宝玉xp](https://weibo.com/u/1727858283)
 飞书文档 [工具合集](https://bytedance.feishu.cn/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf?table=tblmZTd8VuUOOONh&view=vew0Eo17BB&continueFlag=65b5f564557a5863fb2f42d9bf7b5a89)
+
+[AI 智库]（https://ki6j1b0d92h.feishu.cn/wiki/wikcnj4ZePHZALh51yfo3cHMxag）
