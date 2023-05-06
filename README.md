@@ -6,9 +6,13 @@
 
 ## 提示词网站
 [ChatGPT Shortcut](https://newzone.top/chatgpt/)
-openai 和吴恩达 出品的prompt 教程[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
 
 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
+
+
+OpenAI 和吴恩达 出品的prompt 教程[ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)
+
+
 ## 学术工具
 [ChatGPT 学术优化](https://github.com/binary-husky/chatgpt_academic)
 
