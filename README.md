@@ -21,12 +21,12 @@ OpenAI 和吴恩达 出品的prompt 教程[ChatGPT Prompt Engineering for Develo
 
 [expainpaper](https://www.explainpaper.com/)
 ## 代码工具
-[CodeCursor (Cursor for Visual Studio Code)](https://github.com/Helixform/CodeCursor)
+自然语言描述来生成代码[CodeCursor (Cursor for Visual Studio Code)](https://github.com/Helixform/CodeCursor)
 
 [HomeAI亚马逊 AI 编程助手 CodeWhisperer 免费对个人用户开放，提供不限量的代码建议，类似 GitHub Copilot
 亚马逊 AI 编程助手 CodeWhisperer](https://www.appinn.com/amazon-codewhisperer/)
 
-[codium](https://www.codium.ai/#home-wait)
+自动生成测试代码[codium](https://www.codium.ai/#home-wait)
 
 ## 信息来源
 微博博主[宝玉xp](https://weibo.com/u/1727858283)
