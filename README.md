@@ -35,3 +35,5 @@ OpenAI 和吴恩达 出品的prompt 教程[ChatGPT Prompt Engineering for Develo
 飞书文档 [工具合集](https://bytedance.feishu.cn/base/AIMAbnJxQaNgSGsBAtwcdAkLnvf?table=tblmZTd8VuUOOONh&view=vew0Eo17BB&continueFlag=65b5f564557a5863fb2f42d9bf7b5a89)
 
 [AI 智库](https://ki6j1b0d92h.feishu.cn/wiki/wikcnj4ZePHZALh51yfo3cHMxag)
+
+分类展示的AI工具库[AItoolkits](https://www.aitoolkit.org/?continueFlag=79ffd5fcb61f5a609d5f0e732d0f2e83)
