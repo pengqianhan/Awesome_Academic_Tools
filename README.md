@@ -4,6 +4,8 @@
  翻译，润色，解释代码的浏览器插件 [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
  
  可以双语显示英文网页[沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
+ 
+ 一个网页同时使用多个 chatGPT 类的模型（包括ChatGPT,Bard,Bing,Claud）[ChatHUB](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
 
 ## 提示词网站
 [ChatGPT Shortcut](https://newzone.top/chatgpt/)
