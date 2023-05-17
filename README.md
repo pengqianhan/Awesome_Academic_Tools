@@ -19,7 +19,7 @@ OpenAI 和吴恩达 出品的prompt 教程[ChatGPT Prompt Engineering for Develo
 ## 学术工具
 [ChatGPT 学术优化](https://github.com/binary-husky/chatgpt_academic)
 
-[scispace 人工智能读论文](https://typeset.io/)
+[scispace 人工智能读论文，可以直接提问和总结](https://typeset.io/)
 
 [expainpaper](https://www.explainpaper.com/)
 ## 代码工具
