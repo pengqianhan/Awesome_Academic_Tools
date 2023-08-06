@@ -20,8 +20,9 @@ OpenAI 和吴恩达 出品的prompt 教程[ChatGPT Prompt Engineering for Develo
 [ChatGPT 学术优化](https://github.com/binary-husky/chatgpt_academic)
 
 [scispace 人工智能读论文，可以直接提问和总结](https://typeset.io/)
+[chatPDF](https://www.chatpdf.com/)
 
-[expainpaper](https://www.explainpaper.com/)
+[explainpaper](https://www.explainpaper.com/)
 
 [easyScholar:可以在网页直接显示论文等级](https://chrome.google.com/webstore/detail/easyscholar/njgedjcccpcfmjecccaajkjiphpddfji?hl=zh-CN)
 
