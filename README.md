@@ -1,11 +1,11 @@
 ## 浏览器插件
-可以在浏览器里一键翻译润色总结分析[OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc) 官方github地址[基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用](https://github.com/yetone/openai-translator)
+- 可以在浏览器里一键翻译润色总结分析[OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc) 官方github地址[基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用](https://github.com/yetone/openai-translator)
  
- 翻译，润色，解释代码的浏览器插件 [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
+- 翻译，润色，解释代码的浏览器插件 [ChatGPT Sidebar](https://chatgpt-sidebar.com/)
  
- 可以双语显示英文网页[沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
+- 可以双语显示英文网页[沉浸式翻译](https://chrome.google.com/webstore/detail/immersive-translate/bpoadfkcbjbfhfodiogcnhhhpibjhbnh)
  
- 一个网页同时使用多个 chatGPT 类的模型（包括ChatGPT,Bard,Bing,Claud）[ChatHUB](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
+- 一个网页同时使用多个 chatGPT 类的模型（包括ChatGPT,Bard,Bing,Claud）[ChatHUB](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
 
 ## ChatGPT plus plugins 推荐
 
