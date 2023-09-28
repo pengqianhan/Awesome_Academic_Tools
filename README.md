@@ -7,6 +7,8 @@
  
  一个网页同时使用多个 chatGPT 类的模型（包括ChatGPT,Bard,Bing,Claud）[ChatHUB](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma)
 
+## ChatGPT plus plugins 推荐
+
 ## 提示词网站
 [ChatGPT Shortcut](https://newzone.top/chatgpt/)
 
