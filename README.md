@@ -32,6 +32,8 @@
 
 - [CCFRank:可以在网页显示CCF 等级，推荐计算机先关专业的同学使用](https://chrome.google.com/webstore/detail/ccfrank/pfcajmbenomfbjnbjhgbnbdjmiklnkie?hl=zh-CN)
 - [CatalyzeX 检索文章的时候直接在链接旁边显示代码链接](https://chrome.google.com/webstore/detail/aiml-papers-with-code-eve/aikkeehnlfpamidigaffhfmgbkdeheil)
+### latex 工具
+- [在线生成latex表格](https://www.tablesgenerator.com/)
 
 ## 代码工具
 - 自然语言描述来生成代码[CodeCursor (Cursor for Visual Studio Code)](https://github.com/Helixform/CodeCursor)
