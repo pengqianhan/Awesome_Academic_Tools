@@ -42,6 +42,9 @@
 亚马逊 AI 编程助手 CodeWhisperer](https://www.appinn.com/amazon-codewhisperer/)
 
 - 自动生成测试代码[codium](https://www.codium.ai/#home-wait)
+- iFlycode
+- CodeGeeX
+- 
 
 ## 信息来源
 - 微博博主[宝玉xp](https://weibo.com/u/1727858283)
