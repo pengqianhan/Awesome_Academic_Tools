@@ -1,3 +1,5 @@
+## GPTs
+- [AI 论文翻译](GPTs/AI论文翻译.md)
 ## 浏览器插件
 - 可以在浏览器里一键翻译润色总结分析[OpenAI Translator](https://chrome.google.com/webstore/detail/openai-translator/ogjibjphoadhljaoicdnjnmgokohngcc) 官方github地址[基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用](https://github.com/yetone/openai-translator)
  
