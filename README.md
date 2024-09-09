@@ -37,7 +37,12 @@
 ### latex 工具
 - [在线生成latex表格](https://www.tablesgenerator.com/)
 
-## 代码工具
+## 编程助手
+
+-  [github copilot](https://github.com/features/copilot)(学生认证之后免费)；
+-  - [文心快码](https://comate.baidu.com/zh?inviteCode=i1573l5q)(百度的编程助手，个人免费)
+- [通义灵码](https://tongyi.aliyun.com/lingma)(阿里的编程助手，免费)；
+- [CodeGeeX](https://marketplace.visualstudio.com/items?itemName=aminer.codegeex)(智谱的编程助手，免费)；
 - 自然语言描述来生成代码[CodeCursor (Cursor for Visual Studio Code)](https://github.com/Helixform/CodeCursor)
 
 - [HomeAI亚马逊 AI 编程助手 CodeWhisperer 免费对个人用户开放，提供不限量的代码建议，类似 GitHub Copilot
@@ -45,10 +50,6 @@
 
 - 自动生成测试代码[codium](https://www.codium.ai/#home-wait)
 - iFlycode
-- 编程助手 [github copilot](https://github.com/features/copilot)(学生认证之后免费)；
-- [通义灵码](https://tongyi.aliyun.com/lingma)(阿里的编程助手，免费)；
-- [CodeGeeX](https://marketplace.visualstudio.com/items?itemName=aminer.codegeex)(智谱的编程助手，免费)；
-- [文心快码](https://comate.baidu.com/zh?inviteCode=i1573l5q)(百度的编程助手，个人免费)
 
 ## 信息来源
 - 微博博主[宝玉xp](https://weibo.com/u/1727858283)
